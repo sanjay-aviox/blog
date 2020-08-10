@@ -1,0 +1,10 @@
+2020-07-17T06:46:29+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\smart-slider-3\nextend\library\libraries\localization\pomo\translations.php on line 10
+
+2020-07-17T06:46:29+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\smart-slider-3\nextend\library\settings.php on line 3
+
+2020-07-17T07:24:35+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\siteorigin-panels\inc\sidebars-emulator.php on line 3
+
+2020-07-17T08:08:13+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\smart-slider-3\nextend\library\libraries\localization\pomo\translations.php on line 10
+
+2020-07-17T14:58:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-includes\functions.php on line 4888
+

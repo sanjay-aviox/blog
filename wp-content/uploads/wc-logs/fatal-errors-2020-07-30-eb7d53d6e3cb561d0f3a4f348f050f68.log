@@ -1,0 +1,10 @@
+2020-07-30T11:02:02+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\contact-form-7\modules\acceptance.php on line 8
+
+2020-07-30T11:03:07+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\mailchimp-for-woocommerce\public\class-mailchimp-woocommerce-public.php on line 23
+
+2020-07-30T23:57:57+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-includes\Requests\Transport\cURL.php on line 162
+
+2020-07-30T23:57:58+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\smart-slider-3\nextend\library\libraries\filesystem\filesystem.php on line 174
+
+2020-07-30T23:58:04+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\all-in-one-seo-pack\aioseop_feature_manager.php on line 8
+

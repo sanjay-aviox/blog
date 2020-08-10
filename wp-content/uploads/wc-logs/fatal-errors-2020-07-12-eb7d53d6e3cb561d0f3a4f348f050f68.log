@@ -1,0 +1,8 @@
+2020-07-12T07:24:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-includes\widgets\class-wp-widget-media-video.php on line 17
+
+2020-07-12T07:24:28+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\smart-slider-3\nextend\library\libraries\mvc\layout.php on line 3
+
+2020-07-12T07:24:41+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\themes\dublin\styles.php on line 5
+
+2020-07-12T08:06:48+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\siteorigin-panels\widgets\widgets.php on line 3
+

@@ -1,0 +1,139 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "round-sm-buttons";
+  src:url("fonts/round-sm-buttons.eot");
+  src:url("fonts/round-sm-buttons.eot?#iefix") format("embedded-opentype"),
+    url("fonts/round-sm-buttons.woff") format("woff"),
+    url("fonts/round-sm-buttons.ttf") format("truetype"),
+    url("fonts/round-sm-buttons.svg#round-sm-buttons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "round-sm-buttons" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "round-sm-buttons" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-facebook:before {
+  content: "a";
+}
+.icon-youtube-alt:before {
+  content: "b";
+}
+.icon-twitter-alt:before {
+  content: "c";
+}
+.icon-tumblr:before {
+  content: "d";
+}
+.icon-linkedin-alt:before {
+  content: "e";
+}
+.icon-google-plus:before {
+  content: "f";
+}
+.icon-instagram:before {
+  content: "g";
+}
+.icon-pinterest:before {
+  content: "h";
+}
+
+/* GENERAL BUTTON STYLES */
+
+.social_media_buttons_frontend li {
+  display: inline-block;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.social_media_buttons_frontend li a:link,
+.social_media_buttons_frontend li a:visited {
+  text-decoration: none;
+  font-size: 1.6em;
+  background-color: #000;
+  color: #fff;
+  padding: 10px 10px 6px 10px;
+  margin-bottom: 10px;
+  border-radius: 60%;
+}
+
+.social_media_buttons_frontend li a.icon-facebook {
+  background-color: #3B5998;
+}
+
+.social_media_buttons_frontend li a.icon-twitter-alt {
+  background-color: #55ACEE;
+}
+
+.social_media_buttons_frontend li a.icon-google-plus {
+  background-color: #DD4B39;
+}
+
+.social_media_buttons_frontend li a.icon-youtube-alt {
+  background-color: #FF3333;
+}
+
+.social_media_buttons_frontend li a.icon-linkedin-alt {
+  background-color: #4875B4;
+}
+
+.social_media_buttons_frontend li a.icon-instagram {
+  background-color: #4E433C;
+}
+
+.social_media_buttons_frontend li a.icon-pinterest {
+  background-color: #CB2027;
+}
+
+.social_media_buttons_frontend li a.icon-tumblr {
+  background-color: #2C4762;
+}
+
+.social_media_buttons_frontend li a.icon-facebook:hover,
+.social_media_buttons_frontend li a.icon-facebook:active,
+.social_media_buttons_frontend li a.icon-twitter-alt:hover,
+.social_media_buttons_frontend li a.icon-twitter-alt:active,
+.social_media_buttons_frontend li a.icon-google-plus:hover,
+.social_media_buttons_frontend li a.icon-google-plus:active,
+.social_media_buttons_frontend li a.icon-youtube-alt:hover,
+.social_media_buttons_frontend li a.icon-youtube-alt:active,
+.social_media_buttons_frontend li a.icon-linkedin-alt:hover,
+.social_media_buttons_frontend li a.icon-linkedin-alt:active,
+.social_media_buttons_frontend li a.icon-instagram:hover,
+.social_media_buttons_frontend li a.icon-instagram:active,
+.social_media_buttons_frontend li a.icon-pinterest:hover,
+.social_media_buttons_frontend li a.icon-pinterest:active,
+.social_media_buttons_frontend li a.icon-tumblr:hover,
+.social_media_buttons_frontend li a.icon-tumblr:active {
+  color: #fff;
+  opacity: 0.8;
+}
+
+
+
+

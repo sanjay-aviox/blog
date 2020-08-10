@@ -1,0 +1,30 @@
+2020-07-18T03:52:03+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\blog2social\includes\Meta.php on line 3
+
+2020-07-18T04:31:34+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\smart-slider-3\nextend\library\applications\system\plugins\loadplugin.php on line 2
+
+2020-07-18T05:25:37+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\wordpress-23-related-posts-plugin\zemanta\zemanta.php on line 3
+
+2020-07-18T05:28:22+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\classes\ActionScheduler_wpPostStore.php on line 6
+
+2020-07-18T05:28:34+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\smart-slider-3\nextend\library\libraries\formatting.php on line 16
+
+2020-07-18T05:40:25+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\smart-slider-3\includes\shortcode.php on line 3
+
+2020-07-18T06:19:03+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-includes\Requests\Cookie\Jar.php on line 15
+
+2020-07-18T06:45:39+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Plesk\Additional\modules\wp-toolkit\wp-cli\wp-cli\vendor\rmccue\requests\library\Requests\Transport\cURL.php on line 437
+
+2020-07-18T07:02:54+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\contact-form-7\modules\textarea.php on line 8
+
+2020-07-18T09:49:42+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-includes\widgets\class-wp-widget-text.php on line 17
+
+2020-07-18T09:49:49+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\contact-form-7\modules\acceptance.php on line 8
+
+2020-07-18T09:50:39+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-includes\wp-db.php on line 1924
+
+2020-07-18T10:55:03+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\contact-form-7\modules\checkbox.php on line 8
+
+2020-07-18T10:55:15+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\smart-slider-3\includes\smartslider3.php on line 2
+
+2020-07-18T10:55:58+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-includes\wp-db.php on line 1924
+

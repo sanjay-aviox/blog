@@ -1,0 +1,6 @@
+2020-07-26T10:11:53+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\siteorigin-panels\widgets\widgets.php on line 3
+
+2020-07-26T11:02:07+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-includes\widgets\class-wp-nav-menu-widget.php on line 17
+
+2020-07-26T11:05:11+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\classes\ActionScheduler_Abstract_QueueRunner.php on line 6
+

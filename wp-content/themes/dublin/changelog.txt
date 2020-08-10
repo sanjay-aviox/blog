@@ -1,0 +1,17 @@
+Changelog
+*********
+
+*********************************
+Dublin 1.04 - 01 Dec 2014
+*********************************
+- added license info for TGM Plugin Activation in readme.txt;
+- changed Author URI.
+
+*********************************
+Dublin 1.03 - 30 Nov 2014
+*********************************
+- added changelog.txt;
+- corrected typo in theme description;
+- fixed unclosed div issue in recent-comments.php;
+- changed credit link in footer.php;
+- changed screenshot (removed Youtube video);

@@ -1,0 +1,8 @@
+2020-08-02T09:29:22+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-includes\Requests\Transport\cURL.php on line 162
+
+2020-08-02T11:03:39+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-includes\widgets\class-wp-widget-media-gallery.php on line 17
+
+2020-08-02T11:05:00+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-includes\widgets\class-wp-widget-meta.php on line 19
+
+2020-08-02T18:23:47+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\contact-form-7\modules\file.php on line 8
+

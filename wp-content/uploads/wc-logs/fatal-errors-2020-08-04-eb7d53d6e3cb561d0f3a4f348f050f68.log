@@ -1,0 +1,6 @@
+2020-08-04T09:34:36+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-post-types.php on line 9
+
+2020-08-04T11:02:16+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\smart-slider-3\nextend\library\libraries\mvc\db.php on line 3
+
+2020-08-04T11:06:22+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-admin\includes\options.php on line 15
+

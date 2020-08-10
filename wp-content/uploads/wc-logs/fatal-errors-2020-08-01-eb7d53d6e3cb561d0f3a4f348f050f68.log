@@ -1,0 +1,4 @@
+2020-08-01T09:28:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-includes\Requests\Transport\cURL.php on line 162
+
+2020-08-01T11:04:53+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\woocommerce\includes\class-wc-regenerate-images-request.php on line 10
+

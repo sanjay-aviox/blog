@@ -1,0 +1,4 @@
+2020-07-29T11:05:59+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\contact-form-7\modules\file.php on line 8
+
+2020-07-29T18:20:46+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\deprecated\ActionScheduler_AdminView_Deprecated.php on line 11
+

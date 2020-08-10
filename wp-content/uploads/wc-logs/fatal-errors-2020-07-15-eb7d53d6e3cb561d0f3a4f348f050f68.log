@@ -1,0 +1,14 @@
+2020-07-15T07:24:47+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\smart-slider-3\nextend\library\loader.php on line 29
+
+2020-07-15T07:24:57+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\smart-slider-3\library\smartslider\plugins\type\simple\simple.php on line 3
+
+2020-07-15T07:25:03+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-includes\Requests\Transport\cURL.php on line 162
+
+2020-07-15T07:31:19+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\smart-slider-3\nextend\library\libraries\assets\image\assets.php on line 3
+
+2020-07-15T07:31:19+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\smart-slider-3\nextend\library\loader.php on line 33
+
+2020-07-15T07:31:22+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\woocommerce\includes\libraries\geolite2\Reader\InvalidDatabaseException.php on line 9
+
+2020-07-15T14:59:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-includes\functions.php on line 4888
+

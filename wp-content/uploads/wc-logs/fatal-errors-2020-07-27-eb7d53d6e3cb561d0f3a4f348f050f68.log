@@ -1,0 +1,6 @@
+2020-07-27T11:01:59+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-includes\widgets\class-wp-widget-tag-cloud.php on line 17
+
+2020-07-27T11:02:10+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\smart-slider-3\nextend\library\libraries\localization\pomo\translations.php on line 10
+
+2020-07-27T18:20:56+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-includes\widgets\class-wp-widget-archives.php on line 17
+

@@ -1,0 +1,6 @@
+2020-08-03T11:02:04+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-includes\widgets\class-wp-widget-links.php on line 17
+
+2020-08-03T11:02:17+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\smart-slider-3\nextend\library\libraries\mvc\view.php on line 3
+
+2020-08-03T11:04:35+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Inetpub\vhosts\gridironstuds.com\httpdocs\blog\wp-content\plugins\contact-form-7\modules\really-simple-captcha.php on line 8
+

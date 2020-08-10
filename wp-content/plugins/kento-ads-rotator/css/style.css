@@ -1,0 +1,272 @@
+@charset "utf-8";
+/* CSS Document */
+
+.kads-main {
+  background-color: #FF0000;
+  cursor: pointer;
+  position: relative;
+}
+
+.kads-main img {
+  border-radius: 0 !important;
+  height: 100% !important;
+  width: 100% !important;
+}
+
+.kads-main object {
+	cursor:pointer;
+
+}
+
+
+
+.kads-main .kads-logo {
+  height: 30px;
+  position: absolute;
+  width: 30px;
+  background-size: 100% 100%;
+}
+
+
+#kads-stats {
+  width: 100%;
+}
+#kads-stats table{}
+
+.kads-events td {
+  
+  border-bottom: 1px solid #DDDDDD;
+  font-size: 12px;
+  line-height: 20px;
+  padding: 5px 0 5px 10px;
+}
+.kads-events tr {
+  transition: background-color 1s ease 0s;
+}
+
+.kads-events tr:hover {
+	background-color: #e8e9ff;
+	}
+
+
+.kads-events th {
+  font-size: 12px;
+  padding: 5px 0 5px 10px;
+}
+
+
+
+
+
+
+.kads-events .platform {
+  background: url("platform/unknown.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  display: block;
+  height: 25px;
+  max-width: 60px;
+
+}
+
+.kads-events .platform.Windows {
+  background: url("platform/Windows.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+.kads-events .platform.Apple {
+  background: url("platform/Apple.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.kads-events .platform.Linux {
+  background: url("platform/Linux.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+.kads-events .platform.iPhone {
+  background: url("platform/iPhone.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+
+.kads-events .platform.iPod {
+  background: url("platform/iPod.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+
+.kads-events .platform.BlackBerry {
+  background: url("platform/BlackBerry.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+
+.kads-events .platform.Nokia {
+  background: url("platform/Nokia.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+.kads-events .platform.FreeBSD {
+  background: url("platform/FreeBSD.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+.kads-events .platform.OpenBSD {
+  background: url("platform/OpenBSD.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+.kads-events .platform.NetBSD {
+  background: url("platform/NetBSD.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+.kads-events .platform.SunOS {
+  background: url("platform/SunOS.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+.kads-events .platform.OpenSolaris {
+  background: url("platform/OpenSolaris.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+.kads-events .platform.Android {
+  background: url("platform/Android.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+.kads-events .platform.unknown {
+  background: url("platform/unknown.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+
+
+.kads-events .browser {
+  background: url("browser/unknown.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  display: block;
+  height: 25px;
+  max-width: 60px;
+}
+
+.kads-events .browser.Firefox{
+	background: url("browser/Firefox.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+.kads-events .browser.Opera{
+	background: url("browser/Opera.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+
+.kads-events .browser.Internet-Explorer{
+	background: url("browser/Internet-Explorer.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+.kads-events .browser.Pocket-Internet-Explorer{
+	background: url("browser/Pocket-Internet-Explorer.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+
+.kads-events .browser.Opera-Mini{
+	background: url("browser/Opera-Mini.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+.kads-events .browser.Konqueror{
+	background: url("browser/Konqueror.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+.kads-events .browser.iCab{
+	background: url("browser/iCab.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+.kads-events .browser.OmniWeb{
+	background: url("browser/OmniWeb.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+.kads-events .browser.Firebird{
+	background: url("browser/Firebird.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+.kads-events .browser.Iceweasel{
+	background: url("browser/Iceweasel.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+.kads-events .browser.Shiretoko{
+	background: url("browser/Shiretoko.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+.kads-events .browser.Mozilla{
+	background: url("browser/Mozilla.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+.kads-events .browser.Amaya{
+	background: url("browser/Amaya.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+.kads-events .browser.Lynx{
+	background: url("browser/Lynx.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+.kads-events .browser.Safari{
+	background: url("browser/Safari.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+.kads-events .browser.iPhone{
+	background: url("browser/iPhone.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+.kads-events .browser.iPod{
+	background: url("browser/iPod.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+.kads-events .browser.iPad{
+	background: url("browser/iPad.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+.kads-events .browser.Chrome{
+	background: url("browser/Chrome.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+.kads-events .browser.Android{
+	background: url("browser/Android.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+.kads-events .browser.GoogleBot{
+	background: url("browser/GoogleBot.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+.kads-events .browser.Yahoo-Slurp{
+	background: url("browser/Yahoo-Slurp.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+.kads-events .browser.W3C-Validator{
+	background: url("browser/W3C-Validator.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+.kads-events .browser.BlackBerry{
+	background: url("browser/BlackBerry.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+.kads-events .browser.IceCat{
+	background: url("browser/IceCat.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+.kads-events .browser.Nokia-Browser{
+	background: url("browser/Nokia-Browser.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+.kads-events .browser.MSN-Browser{
+	background: url("browser/MSN-Browser.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+
+.kads-events .browser.MSN-Bot{
+	background: url("browser/MSN-Bot.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+.kads-events .browser.Bing-Bot{
+	background: url("browser/Bing-Bot.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+.kads-events .browser.Netscape-Navigator{
+	background: url("browser/Netscape-Navigator.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+
+.kads-events .browser.Galeon{
+	background: url("browser/Galeon.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+
+.kads-events .browser.NetPositive{
+	background: url("browser/NetPositive.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+.kads-events .browser.unknown{
+	background: url("browser/unknown.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+
+
+
+
+
+
+
